@@ -3,16 +3,16 @@
 Всякое-разное про машинное обучение в не особо структурированном виде. Владелец репозитория никому ничего не гарантирует и никакой ответственности за последствия от использования информации отсюда не несет.
 
 # Оглавление
-1. [Обзоры статей](#articles-overview)
-  1.1 [Introduction to Semi-Supervised Learning with Ladder Networks](#a1-1)
-  1.2 [Intro to optimization in deep learning: Busting the myth about batch normalization](#a1-2)
-  1.3 [Layer Normalization](#a1-3)
-  1.4 [Deep learning with Elastic Averaging SGD](#a1-4)
-  1.5 [The Marginal Value of Adaptive Gradient Methods in Machine Learning](#a1-5)
-  1.6 [Self-Normalizing Neural Networks](#a1-6)
-  1.7 [The Two Phases of Gradient Descent in Deep Learning](#a1-7)
-  1.8 [On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima](#a1-8)
-  1.9 [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](#a1-9)
+- [Обзоры статей](#articles-overview)
+  - [Introduction to Semi-Supervised Learning with Ladder Networks](#a1-1)
+  - [Intro to optimization in deep learning: Busting the myth about batch normalization](#a1-2)
+  - [Layer Normalization](#a1-3)
+  - [Deep learning with Elastic Averaging SGD](#a1-4)
+  - [The Marginal Value of Adaptive Gradient Methods in Machine Learning](#a1-5)
+  - [Self-Normalizing Neural Networks](#a1-6)
+  - [The Two Phases of Gradient Descent in Deep Learning](#a1-7)
+  - [On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima](#a1-8)
+  - [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](#a1-9)
 
 # Обзоры статей <a name="articles-overview"></a>
 
