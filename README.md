@@ -50,6 +50,14 @@
 
 ## Layer Normalization <a name="a1-3"></a>
 
+Ссылка на статью: https://arxiv.org/abs/1607.06450
+
+Ссылка на блог про сравнение с batch normalization: http://mlexplained.com/2018/01/13/weight-normalization-and-layer-normalization-explained-normalization-in-deep-learning-part-2/
+
+Авторы приводят еще один алгоритм нормализации для ускорения сходимости сети, как альтернативу batch-нормализации. Главное отличие от batchnorm: средние и дисперсии считаются отдельно по каждой из фичей.
+
+Сравнение side-by-side можно найти, например, в блоге про сравнение с batchnorm. Внешне они очень похожи. Авторы статьи в своей статье отмечают, что layernorm лучше подходит для рекуррентный нейронных сетей.
+
 ## Deep learning with Elastic Averaging SGD <a name="a1-4"></a>
 
 Ссылка на статью: https://arxiv.org/abs/1412.6651
