@@ -13,6 +13,7 @@
   - [The Two Phases of Gradient Descent in Deep Learning](#a1-7)
   - [On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima](#a1-8)
   - [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](#a1-9)
+  - [Keyphrase Extraction Using Deep Recurrent Neural Networks on Twitter](#a1-10)
 
 # Обзоры статей <a name="articles-overview"></a>
 
@@ -127,3 +128,9 @@
 Linear scaling rule формулируется следующим образом: когда размер мини-батча умножается на **k**, learning rate также должен быть умножен на **k**.
 
 Gradual warmup заключается в том, что на первых итерациях алгоритма мы обучаем его с постепенно бОльшим learning rate-ом от итерации к итерации. Затем, как эти первые итерации закончились, используем уже выбранную политику learning rate scheduling-а.
+
+## Keyphrase Extraction Using Deep Recurrent Neural Networks on Twitter <a name="a1-10"></a>
+
+Ссылка на статью: http://jkx.fudan.edu.cn/~qzhang/paper/keyphrase.emnlp2016.pdf
+
+TODO
