@@ -76,6 +76,8 @@
 
 На основе label_image.py из примеров был сделан скрипт (возможно, не самым оптимальным образом), который посчитает точность на тестовой выборке: https://github.com/zxqfd555/machine-learning-braindump/blob/master/retrain-image-classifier/cats-vs-dogs/test/check_test_accuracy.py
 
+Понадобилось где-то с полчаса, чтоб прогнать.
+
 Получился такой результат:
 
 Распознано: 1795 картинок из 2000, по 1000 каждого класса
