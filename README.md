@@ -3,6 +3,7 @@
 Всякое-разное про машинное обучение в не особо структурированном виде. Владелец репозитория никому ничего не гарантирует и никакой ответственности за последствия от использования информации отсюда не несет.
 
 # Оглавление
+- [До-обучение существующей сверточной нейронной сети на новых классах изображений](#nn-retrain)
 - [Обзоры статей](#articles-overview)
   - [Introduction to Semi-Supervised Learning with Ladder Networks](#a1-1)
   - [Intro to optimization in deep learning: Busting the myth about batch normalization](#a1-2)
@@ -14,6 +15,10 @@
   - [On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima](#a1-8)
   - [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](#a1-9)
   - [Keyphrase Extraction Using Deep Recurrent Neural Networks on Twitter](#a1-10)
+
+# До-обучение существующей сверточной нейронной сети на новых классах изображений <a name="nn-retrain"></a>
+
+Описано в этом же репозитории, [здесь](https://github.com/zxqfd555/machine-learning-braindump/tree/master/retrain-image-classifier).
 
 # Обзоры статей <a name="articles-overview"></a>
 
