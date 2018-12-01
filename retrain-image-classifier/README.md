@@ -41,10 +41,12 @@
 
 Картинки даны в png, чтоб запустить код из туториала без изменений, их пришлось сконвертировать в jpg.
 
-    cd cats-vs-dogs/cat
+    cd cat-vs-dog/cat
     mogrify -format jpg *.png
+    rm -rf *.png
     cd ../dog
     mogrify -format jpg *.png
+    rm -rf *.png
   
 Возможно понадобится установить imagemagick:
 
