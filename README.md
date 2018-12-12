@@ -23,6 +23,14 @@
   - [Very Deep Convolutional Networks for Large-Scale Image Recognition](#a2-7)
   - [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](#a2-8)
   - [Geoffrey Hinton on what's wrong with CNNs](#a2-9)
+  - [LSTM: A Search Space Odyssey](#a3-1)
+  - [Tunable Efficient Unitary Neural Networks (EUNN) and their application to RNNs](#a3-2)
+  - [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](#a3-3)
+  - [Neural Machine Translation by Jointly Learning to Align and Translate](#a3-4)
+  - [Quasi-Recurrent Neural Networks](#a3-5)
+  - [Attention Is All You Need](#a3-6)
+  - [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](#a3-7)
+  - [Use CNN's, Luke](#a3-8)
 
 # До-обучение существующей сверточной нейронной сети на новых классах изображений <a name="nn-retrain"></a>
 
